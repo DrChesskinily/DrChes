@@ -14,7 +14,7 @@ body{
 
 .loader{
     position: fixed;
-    background-color: #292829;
+    background-color: #df0101;
     height: 100vh;
     width: 100%;
     display: flex;
@@ -67,7 +67,7 @@ ul{
 }
 
 h2{
-    color: #d5e12d;
+    color: #2d42e1;
 	font-family: 'VT323', monospace;
 }
 
@@ -110,14 +110,14 @@ h2{
     position: absolute;
     border-radius: 50px;
     background-color: #ffffff;
-    color: #bde12d;
+    color: #392de1;
     right: 0;
 	margin: 1px;
 }
 
 .wallet{
 	display:none;
-    color: #d5e12d;
+    color: #1538b7;
 	font-family: 'VT323', monospace;
     text-decoration: none;
 	font-size:20px;
@@ -127,7 +127,7 @@ h2{
 }
 
 .buy-mio:hover{
-    color: #7d941e;
+    color: #1122a2;
 }
 
 @media only screen and (max-width:741px){
@@ -156,7 +156,7 @@ h2{
 
     .dropdown-content{
         display: none;
-        background-color:#abb337;
+        background-color:#b33739;
         width: 145px;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
         z-index: 2;
@@ -193,7 +193,7 @@ h2{
 	  height: 100%;  
 	  opacity: .3; 
 	  z-index: -1;
-	  background: url("img/bg1.jpeg");
+	  background: url("https://cdn.discordapp.com/attachments/729015210039312394/1118602495896322049/4a34ee9d-b50e-448f-89a6-05418307c3ca.png");
 	  background-repeat:no-repeat;
 	  background-size:cover;
 }
@@ -216,7 +216,7 @@ h2{
 	  height: 100%;  
 	  opacity: .3; 
 	  z-index: -1;
-	  background: url("img/bg3.jpg");
+	  background: url("img/3.jpg");
 	  background-repeat:no-repeat;
 	  background-size:cover;
 }
@@ -272,7 +272,7 @@ h2{
 
 
 .pruebaxd{
-/*     background-image: url("img/bg.png"); */
+/*     background-image: url("img/.png"); */
 	background-color:#322f2f;
 	background-repeat: no-repeat;
 /* 	background-size:contain; */
@@ -297,7 +297,7 @@ h2{
 	  height: 100%;  
 	  opacity: .1; 
 	  z-index: -1;
-	  background: url("img/bg2.jpeg");
+	  background: url("img/2.jpeg");
 	  background-repeat:no-repeat;
 	  background-size:cover;
 }
@@ -453,7 +453,7 @@ h2{
 	  height: 100%;  
 	  opacity: .1; 
 	  z-index: -1;
-	  background: url("img/bg4.jpg");
+	  background: url("img/4.jpg");
 	  background-repeat:no-repeat;
 	  background-size:cover;
 }
@@ -475,10 +475,10 @@ h2{
     max-height: 100px;
 	text-align:center;
     padding: 30px;
-    width: 200px;
+    width: 280px;
     margin: 10px;
 /*     background-color: #3F4E4F; */
-	background-image:url("https://toppng.com/public/uploads/thumbnail/cloud-fixed-06-blueberry-sans-pixel-art-11562943662t42gti4um9.png");
+	background-image:url("img/cloud.png");
 	background-size:cover;
 	background-repeat:no-repeat;
     border-radius: 20px;
